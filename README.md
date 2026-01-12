@@ -28,6 +28,3 @@ This project implements a **Cats vs Dogs image classifier** using **Transfer Lea
 - Achieved good accuracy on validation data
 - Transfer learning improves convergence speed
 
-## 📎 Notes
-- Dataset not included in repository
-- Update dataset path before running
