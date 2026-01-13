@@ -11,6 +11,7 @@ This project implements a **Cats vs Dogs image classifier** using **Transfer Lea
 - Python
 - TensorFlow / Keras
 - NumPy
+- Pandas
 - Matplotlib
 - Google Colab
 
